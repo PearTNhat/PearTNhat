@@ -98,16 +98,9 @@ Software Engineer specializing in **Golang Backend Development** and **Blockchai
     </td>
   </tr>
 </table>
----
 
-### 📈 Activity & Contribution Graph
+<hr/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PearTNhat&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  Built with ❤️ by <strong>Lê Tuấn Nhật</strong> • Open for <strong>Golang Backend</strong> & <strong>Blockchain Engineering</strong> opportunities!
 </p>
-
----
-
-<div align="center">
-  <sub>Built with ❤️ by Lê Tuấn Nhật • Open for <strong>Golang Backend</strong> & <strong>Blockchain Engineering</strong> opportunities!</sub>
-</div>
