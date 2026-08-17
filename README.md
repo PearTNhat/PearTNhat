@@ -1,50 +1,105 @@
-# Hi, I'm Lê Tuấn Nhật 👋
-### Blockchain & Backend Engineer
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-letuannhat105%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:letuannhat105@gmail.com)
+  <h1>Hi there, I'm Lê Tuấn Nhật 👋</h1>
+  <p>🚀 <strong>Golang Backend & Blockchain Systems Engineer</strong></p>
 
----
+  <a href="https://github.com/PearTNhat">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Golang+Backend+%26+Blockchain+Engineer;High-Concurrency+Systems+%26+Distributed+Arch;Layer+1+Core+%7C+EVM+Internals+%7C+12,000+TPS;Go+%E2%80%A2+gRPC+%E2%80%A2+Kafka+%E2%80%A2+Redis+%E2%80%A2+PostgreSQL" alt="Typing SVG" />
+  </a>
 
-### 🚀 About Me
-- 🔭 Working on **Layer 1 Blockchain Core, Consensus Mechanisms & Distributed Storage**.
-- 🛠️ Deep focus on **EVM compatibility, Ethereum-compatible JSON-RPC APIs, and High-Throughput systems**.
-- ⚡ Tech Stack: **Go, Rust, C/C++, LevelDB, Xapian, EVM, QUIC**.
-- 📍 Based in **Ho Chi Minh City, Vietnam**.
+  <p align="center">
+    <a href="mailto:letuannhat105@gmail.com">
+      <img src="https://img.shields.io/badge/Email-letuannhat105%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://linkedin.com">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/PearTNhat">
+      <img src="https://img.shields.io/badge/GitHub-PearTNhat-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%2C%20Vietnam-22C55E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  </p>
 
----
-
-### 💻 Tech Stack & Tools
-
-**Languages**  
-<p>
-  <img src="https://skillicons.dev/icons?i=go,rust,cpp,c,ts,js,python,java" />
-</p>
-
-**Blockchain & Systems**  
-<p>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON--RPC-231F20?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LevelDB-005C8A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DAG%20%2F%20BFT%20Consensus-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/QUIC%20Protocol-02569B?style=flat-square"/>
-</p>
-
-**Backend & Infrastructure**  
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,mysql,postgres,mongodb,redis,git" />
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 👨‍💻 About Me
+
+Software Engineer specializing in **Golang Backend Development** and **Blockchain Core Systems**. Experienced in building high-concurrency microservices, distributed architectures, and high-throughput transaction engines.
+
+- 🔷 **Golang & Backend Architecture:** Proficient in Go (Goroutines, Channels, sync primitives), building scalable RESTful & gRPC APIs, distributed caching (Redis), message streaming (Kafka, RabbitMQ), and database optimization.
+- ⛓️ **Blockchain Core & Layer 1:** Deep experience in consensus mechanisms (DAG / BFT), EVM state execution, Go-Ethereum (Geth) ecosystem, and Ethereum-compatible JSON-RPC services.
+- ⚡ **High Throughput & Performance:** Benchmarked and optimized systems handling up to **12,000 TPS**, tuning state persistence (NOMT/Flat Trie, LevelDB, Xapian), node sync, and memory/CPU performance.
+- 🦀 **Low-Level Systems & Distributed Storage:** Designed chunk-based streaming over **QUIC Protocol** with **Rust** and cryptographic verification (**Merkle Trees**).
+- 🎓 **Education:** Information Technology Engineer @ **Posts and Telecommunications Institute of Technology (PTIT)**.
+
+---
+
+### 🛠️ Tech Stack & Technical Competencies
+
+<table>
+  <tr>
+    <td width="28%"><strong>Primary Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=go,rust,cpp,c,ts,js,python,solidity" />
+    </td>
+  </tr>
+  <tr>
+    <td width="28%"><strong>Backend & Distributed Systems</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Golang_(Concurrency_%26_Goroutines)-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+      <img src="https://img.shields.io/badge/gRPC_%2F_Protobuf-244F5D?style=flat-square&logo=grpc&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis_Cache-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Microservices_Arch-374151?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%"><strong>Blockchain & Web3</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Go--Ethereum_(Geth)-111827?style=flat-square&logo=ethereum&logoColor=white"/>
+      <img src="https://img.shields.io/badge/EVM_Internals-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DAG_%2F_BFT_Consensus-2563EB?style=flat-square"/>
+      <img src="https://img.shields.io/badge/JSON--RPC_APIs-059669?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Solidity_Smart_Contracts-363636?style=flat-square&logo=solidity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Merkle_Trees-6B7280?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%"><strong>Databases & Storage</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LevelDB-005C8A?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Xapian_Engine-4B5563?style=flat-square"/>
+      <img src="https://img.shields.io/badge/NOMT_%2F_Flat_Trie-D97706?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%"><strong>DevOps & Protocols</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux,docker,git" />
+      <br/>
+      <img src="https://img.shields.io/badge/QUIC_Protocol-02569B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/TCP_Networking-374151?style=flat-square"/>
+      <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/cgo_%2F_FFI-4B5563?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+---
+
+### 📈 Activity & Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PearTNhat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PearTNhat&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PearTNhat&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PearTNhat&theme=tokyonight&hide_border=true" width="97%" />
-</p>
+---
+
+<div align="center">
+  <sub>Built with ❤️ by Lê Tuấn Nhật • Open for <strong>Golang Backend</strong> & <strong>Blockchain Engineering</strong> opportunities!</sub>
+</div>
