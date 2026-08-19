@@ -1,13 +1,16 @@
 <div align="center">
 
-  <h1>Hi there, I'm Lê Tuấn Nhật 👋</h1>
-  <p>🚀 <strong>Golang Backend & Blockchain Systems Engineer</strong></p>
+  <h1>Hi there, I'm Lê Tuấn Nhật</h1>
+  <p><strong>Golang Backend & Blockchain Systems Engineer</strong></p>
 
   <a href="https://github.com/PearTNhat">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Golang+Backend+%26+Blockchain+Engineer;High-Concurrency+Systems+%26+Distributed+Arch;Layer+1+Core+%7C+EVM+Internals+%7C+12,000+TPS;Go+%E2%80%A2+gRPC+%E2%80%A2+Kafka+%E2%80%A2+Redis+%E2%80%A2+PostgreSQL" alt="Typing SVG" />
   </a>
 
   <p align="center">
+    <a href="https://portfolio-le-tuan-nhat.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
     <a href="mailto:letuannhat105@gmail.com">
       <img src="https://img.shields.io/badge/Email-letuannhat105%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
